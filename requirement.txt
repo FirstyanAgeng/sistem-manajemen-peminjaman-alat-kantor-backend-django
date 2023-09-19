@@ -1,0 +1,5 @@
+django 
+djangorestframework 
+django-corsheaders 
+python-decouple 
+drf_spectacular
